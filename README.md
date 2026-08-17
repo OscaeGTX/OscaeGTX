@@ -163,7 +163,7 @@ My code embodies three fundamental principles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OscaeGTX-0A66C2)](https://linkedin.com/in/oscaegtx)
 [![Quantum Engineering Blog](https://img.shields.io/badge/Blog-Millennium_Architect-FF5722)](https://oscae.tech/blog)
 [![Email](https://img.shields.io/badge/Email-alphaquadron%40gmail.com-EA4335)](mailto:alphaquadron@gmail.com)  
-📱 **SMS/Call:** +61 413 350 483  
+📱 **SMS/Call:** +61 422030563 
 
 **Collaboration Opportunities:**  
 - Quantum-resistant infrastructure  
